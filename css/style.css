@@ -38,7 +38,7 @@ h1 {
 }
 #section9 {
   text-align: center;
-  background-color: rgb(230, 193, 230);
+  background-color: rgb(230, 193, 230) !important;
 }
 .card1 {
   padding: 10px;
